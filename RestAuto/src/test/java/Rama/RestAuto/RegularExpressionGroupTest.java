@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class RegularExpressionGroupTest
 {
-    @Test(groups = { "include-test-one" })
+    @Test(groups = { "include-test-one-Rama" })
     public void testMethodOne() {
         System.out.println("Test method one");
     }
